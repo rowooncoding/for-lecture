@@ -1,1 +1,38 @@
 @import "reset.css";
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: yellowgreen;
+  height: 20vh;
+}
+
+.nav {
+  background-color: pink;
+  height: 10vh;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.main {
+  background-color: powderblue;
+  flex-grow: 0;
+  flex-basis: 90%;
+  height: 60vh;
+}
+
+.aside {
+  background-color: tomato;
+  flex-grow: 0;
+  flex-basis: 10%;
+  height: 60vh;
+}
+
+.footer {
+  background-color: gray;
+  height: 10vh;
+}
