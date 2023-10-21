@@ -9,9 +9,13 @@
   height: 20vh;
   width: 90rem;
   margin: 0 auto;
+}
+
+.header_nav {
   display: flex;
   justify-content: space-between;
 }
+
 
 .header .img_wrapper1 img{
   margin-right: 20px;
@@ -19,6 +23,10 @@
 
 .header .img_wrapper2 img {
   margin-left: 20px;
+}
+
+.search_form {
+  display: block;
 }
 
 .nav {
