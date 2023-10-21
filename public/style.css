@@ -9,6 +9,8 @@
   height: 20vh;
   width: 90rem;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 .nav {
