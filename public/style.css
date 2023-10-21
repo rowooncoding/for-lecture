@@ -7,21 +7,28 @@
 .header {
   background-color: yellowgreen;
   height: 20vh;
+  width: 90rem;
+  margin: 0 auto;
 }
 
 .nav {
   background-color: pink;
   height: 10vh;
+  width: 90rem;
+  margin: 0 auto;
 }
 
 .wrapper {
   display: flex;
+  width: 90rem;
+  margin: 0 auto;
 }
 
 .main {
   background-color: powderblue;
   flex-grow: 0;
   flex-basis: 90%;
+  width: 90rem;
   height: 60vh;
 }
 
@@ -29,10 +36,13 @@
   background-color: tomato;
   flex-grow: 0;
   flex-basis: 10%;
+  width: 90rem;
   height: 60vh;
 }
 
 .footer {
   background-color: gray;
   height: 10vh;
+  width: 90rem;
+  margin: 0 auto;
 }
