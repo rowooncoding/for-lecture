@@ -1,4 +1,4 @@
-# for-lecture
+![image](https://github.com/rowooncoding/for-lecture/assets/114975279/6302db6e-e9dd-461a-abb1-189d4cb2ebbb)# for-lecture
 ## 결과물
 ![image](https://github.com/rowooncoding/for-lecture/assets/114975279/f1c6cd41-fdab-456e-aacc-8df3122a7386)
 ## 키워드
@@ -21,6 +21,8 @@
 4. 모르겠다면 아래의 이슈 링크를 보고 답을 확인하세요
 ## 이슈링크
 > 답안입니다!! 최대한 보지말고 만들어보세요!
+![image](https://github.com/rowooncoding/for-lecture/assets/114975279/402c0426-b81c-49ae-a993-4ebe04a36085)
+여기를 클릭하면 코드를 확인할 수 있습니다!
 <ul>
   <li>
     <a href="https://github.com/rowooncoding/for-lecture/issues/1">레이아웃</a>
