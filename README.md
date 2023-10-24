@@ -4,15 +4,12 @@
 
 <ul>
   <li>
-    <a href=""></a>
+    <a href="">레이아웃</a>
   </li>
     <li>
-    <a href=""></a>
+    <a href="">헤더 네비게이션</a>
   </li>
   <li>
-    <a href=""></a>
-  </li>
-  <li>
-    <a href=""></a>
+    <a href="">헤더 검색창</a>
   </li>
 </ul>
