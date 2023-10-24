@@ -7,7 +7,7 @@
     <a href="https://github.com/rowooncoding/for-lecture/issues/1">레이아웃</a>
   </li>
     <li>
-    <a href="">헤더 네비게이션</a>
+    <a href="https://github.com/rowooncoding/for-lecture/issues/2">헤더 네비게이션</a>
   </li>
   <li>
     <a href="">헤더 검색창</a>
